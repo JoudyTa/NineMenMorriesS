@@ -1,0 +1,4 @@
+# NineMenMorriesS
+
+.
+I have experience playing Nine Men's Morris, a classic strategy board game that requires critical thinking and tactical skills. The game is played by two people with the goal of forming "mills" - rows of three markers - on a gridded game board while preventing the opponent from doing the same. Players take turns placing and moving markers along intersecting lines to gain an advantage and eliminate the opponent's pieces. My experience playing Nine Men's Morris has honed my skills in strategic planning, pattern recognition, and decision-making in competitive situations. It demonstrates my dedication to intellectual challenges and my ability to devise effective strategies to achieve my goals. It is worth noting that the game was developed using Java and incorporates the Min-Max and Alpha-Beta algorithms
